@@ -5,7 +5,11 @@ body{
     color: white;
 };
 
-li{
+h1{
+    font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
 };
 
+.container-body{
+    font-family: 'Sansita Swashed';
+};
