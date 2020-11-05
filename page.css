@@ -1,0 +1,11 @@
+body{
+    background-image: url("../Proyecto-desarrollador-J/images/Fondo-bienvenida.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+};
+
+li{
+    text-transform: uppercase;
+};
+
