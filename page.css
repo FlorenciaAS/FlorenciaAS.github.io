@@ -1,15 +1,12 @@
-body{
-    background-image: url("../Proyecto-desarrollador-J/images/Fondo-bienvenida.jpeg");
+header{
+    background-image: url("../Proyecto-desarrollador-J/images/Fondo-bienvenida.jpeg" ) ;
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
+    padding-bottom: 13%;
+    
 };
 
-h1{
-    font-family: 'Montserrat', sans-serif;
-    text-transform: uppercase;
-};
 
-.container-body{
-    font-family: 'Sansita Swashed';
-};
+
+
